@@ -2,7 +2,6 @@
 
 > Este repositório contém os projetos desenvolvidos na Imersão Front end - Todas as letras, onde pude aprender mais sobre HTML, CSS, JS - Período de Abr/22 a Jul/22.
 
-> A ONG <b>Todas as Letras</b> insere talentos LGBTI+ na área de tecnologia.
 > Conheça e apoie essa iniciativa através do <a href="https://todasasletras.org">link</a>.
 
 <h3> 📁 Conteúdo</h3>
