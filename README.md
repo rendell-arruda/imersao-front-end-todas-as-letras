@@ -2,8 +2,6 @@
 
 > Este repositório contém os projetos desenvolvidos na Imersão Front end - Todas as letras, onde pude aprender mais sobre HTML, CSS, JS - Período de Abr/22 a Jul/22.
 
-> Conheça e apoie essa iniciativa através do <a href="https://todasasletras.org">link</a>.
-
 <h3> 📁 Conteúdo</h3>
 
 O curso ainda está em andamento e as próximas atualizações viram conforme as aulas acontecerem.
