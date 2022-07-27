@@ -1,4 +1,4 @@
-# Imersão Front End - 🏳️‍🌈 Todas as Letras
+# Imersão Front End - Todas as Letras
 
 > Este repositório contém os projetos desenvolvidos na Imersão Front end - Todas as letras, onde pude aprender mais sobre HTML, CSS, JS - Período de Abr/22 a Jul/22.
 
@@ -7,9 +7,6 @@
 
 <h3> 📁 Conteúdo</h3>
 
-<h4 align="center"> 
-	🚧   🚀 Em construção...  🚧
-</h4>
 O curso ainda está em andamento e as próximas atualizações viram conforme as aulas acontecerem.
 
 Os projetos foram divididos nas seguintes aulas:
